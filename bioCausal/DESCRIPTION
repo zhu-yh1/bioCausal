@@ -1,0 +1,22 @@
+Package: bioCausal
+Type: Package
+Title: bioCausal: A pipeline for causal analysis on biology data
+Version: 0.1.0
+Author: Yuehua Zhu
+Maintainer: The package maintainer <yuehua@pitt.edu>
+Description: bioCausal provides an easy-to-use pipeline for feature selection, latent variable analysis and causal analysis from biological data
+Encoding: UTF-8
+Depends:
+  PLIER,
+  ggnetwork,
+  igraph,
+  intergraph,
+  ggpubr,
+  ggplot2,
+  glmnet,
+  limma,
+  qvalue,
+  RColorBrewer,
+  pheatmap
+RoxygenNote: 7.3.2
+LazyData: true
