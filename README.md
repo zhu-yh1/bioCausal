@@ -1,5 +1,6 @@
 # bioCausal
-A pipeline for causal analysis on biology data
+A pipeline for causal analysis on biology data.
+
 bioCausal provides an easy-to-use pipeline for feature selection, latent variable analysis and causal analysis from biological data
 
 ## Install Dependencies
